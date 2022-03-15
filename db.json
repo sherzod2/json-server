@@ -19,7 +19,8 @@
       "displaySize": "1080x2400",
       "price": "3707000",
       "oldPrice": "3801000",
-      "katigoriya": 4.1
+      "katigoriya": 4.1,
+      "selected": false
     },
     {
       "id": 1,
@@ -40,7 +41,8 @@
       "displaySize": "1080x2400",
       "price": "3207000",
       "oldPrice": "3401000",
-      "katigoriya": 4.5
+      "katigoriya": 4.5,
+      "selected": false
     },
     {
       "id": 2,
@@ -61,7 +63,8 @@
       "displaySize": "1080x2400",
       "price": "3371000",
       "oldPrice": "3393000",
-      "katigoriya": 3.9
+      "katigoriya": 3.9,
+      "selected": false
     },
     {
       "id": 3,
@@ -82,7 +85,8 @@
       "displaySize": "1080x2400",
       "price": "2800000",
       "oldPrice": "2712000",
-      "katigoriya": 5.0
+      "katigoriya": 5.0,
+      "selected": false
     },
     {
       "id": 4,
@@ -103,7 +107,8 @@
       "displaySize": "1080x2400",
       "price": "5902000",
       "oldPrice": "5999000",
-      "katigoriya": 5.1
+      "katigoriya": 5.1,
+      "selected": false
     },
     {
       "id": 5,
@@ -124,7 +129,8 @@
       "displaySize": "1080x2400",
       "price": "10202000",
       "oldPrice": "10711000",
-      "katigoriya": 4.0
+      "katigoriya": 4.0,
+      "selected": false
     },
     {
       "id": 6,
@@ -145,7 +151,8 @@
       "displaySize": "1080x2400",
       "price": "10202000",
       "oldPrice": "10711000",
-      "katigoriya": 4.7
+      "katigoriya": 4.7,
+      "selected": false
     }
   ]
 }
